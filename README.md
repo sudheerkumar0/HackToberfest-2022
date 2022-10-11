@@ -2,21 +2,39 @@
 Hello Everyone Contribute this repo for begenner👋🎆🎁
 
 
-#Contributing
-Fork the repo on GitHub
+HackcktoberFest 2022
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-1.Clone the project to your own machine
+https://hacktoberfest.digitalocean.com/
 
-->Don't use span
+# 👍 Awesome! How and What can I Contribute?
+It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
 
-2.Commit changes to your own branch
+Fork this repository by clicking the Fork button on the top right corner of this page or simply click here.
+Create a new file and add a new Program in any programming language like C++, Java, Python, etc. (Note: No duplicate programs can exist!)
+After adding the code, Commit your changes.
+Create a new pull request from your forked repository (Button located at the top of your repository)
+Star this repository!
+Don't forget to Follow and Share
 
-3.Push your work back up to your fork
 
-4.Submit a Pull request so that we can review your changes
+Language accepted:
+Python
+C++
+Javascript
+Issues(Projects) for Beginners
+Addition of two numbers given by user
+Reversing the string entered by user
+Conversion of a number system to another number system (Decimal, Binary, Hexadecimal, Octal)
+Change the temperature from Celcius to Farenheit
+Find the factorial of a number entered by user
+Find the greatest number among the 5 given numbers by user
+Create the patterns using logic
+Dice Roll Generator - In each execution, a number from 1 to 6 will be printed randomly
+Different types of search algorithms
+Number Guessing Game
+Rock Paper Scissors Game
 
-5.Stil wait and merge
+---------------------------------------------------
+.Happy hacking!
 
-Support Me
-
-#THANKU 
